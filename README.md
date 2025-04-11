@@ -36,9 +36,7 @@ pip install numpy opencv-python tensorflow speechrecognition pyttsx3 pygame matp
 2️⃣ Run the Game
 Execute the following command to start the game:
 
-bash
-Copy
-Edit
+
 python main.py
 🎤 Voice Commands
 
